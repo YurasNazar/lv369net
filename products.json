@@ -49,6 +49,13 @@
         "price": 99999.99
     },
     {
+        "id": "26",
+        "title": "Tesla Roadster",
+        "image": "tesla-roadster.jpg",
+        "description": "The quickest car in the world, with record-setting acceleration, range and performance",
+        "price": 100000.00
+    },
+    {
         "id": "17",
         "title": "Audi 8",
         "image": "audi-a8.jpg",
