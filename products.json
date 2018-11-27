@@ -82,6 +82,13 @@
         "image": "huawei-mate-20x.jpg",
         "description": "Built to be a performance dynamo",
         "price": 44.99
+    },
+    {
+        "id": "54",
+        "title": "BMW I8",
+        "image": "bmw-i8.jpg",
+        "description": "Perfect",
+        "price": 100000000
     }
 ]
 
