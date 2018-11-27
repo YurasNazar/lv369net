@@ -84,6 +84,13 @@
         "price": 44.99
     },
     {
+        "id": "29",
+        "title": "Honda Pilot",
+        "image": "honda-pilot.jpg",
+        "description": "Very nice car",
+        "price": 40000.00
+    },
+    {
         "id": "54",
         "title": "BMW I8",
         "image": "bmw-i8.jpg",
