@@ -47,6 +47,13 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "17",
+        "title": "Audi 8",
+        "image": "audi-a8.jpg",
+        "description": "Four-door, full-size luxury sedan",
+        "price": 146740.99
     }
 ]
 
