@@ -48,11 +48,26 @@
         "description": "Best crossover in the World",
         "price": 99999.99
     },
+    {
+        "id": "17",
+        "title": "Audi 8",
+        "image": "audi-a8.jpg",
+        "description": "Four-door, full-size luxury sedan",
+        "price": 146740.99
+     },
 	{
         "id": "34",
         "title": "iPhone XR",
         "image": "iphone-xr.jpg",
         "description": "Brilliant. In every way.",
         "price": 749.99
+    },
+	{
+        "id": "44",
+        "title": "Huawei Mate 20X",
+        "image": "huawei-mate-20x.jpg",
+        "description": "Built to be a performance dynamo",
+        "price": 44.99
     }
 ]
+
