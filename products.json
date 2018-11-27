@@ -91,6 +91,13 @@
         "description": "Built to be a performance dynamo",
         "price": 44.99
     },
+	  {
+        "id": "56",
+        "title": "Xiaomi mi mix 3",
+        "image": "xiaomi-mi-mix-3.jpg",
+        "description":"The Smartphone that makes you sit up and take Note",
+        "price": 200.00
+    },
     {
         "id": "29",
         "title": "Honda Pilot",
@@ -104,6 +111,7 @@
         "image": "bmw-i8.jpg",
         "description": "Perfect",
         "price": 100000000
+
     }
 
 ]
