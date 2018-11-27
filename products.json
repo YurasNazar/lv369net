@@ -89,6 +89,13 @@
         "image": "honda-pilot.jpg",
         "description": "Very nice car",
         "price": 40000.00
+    },
+    {
+        "id": "54",
+        "title": "BMW I8",
+        "image": "bmw-i8.jpg",
+        "description": "Perfect",
+        "price": 100000000
     }
 ]
 
