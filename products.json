@@ -1,65 +1,80 @@
 [
-  {
-    "id": "1",
-    "title": "Large drone",
-    "image": "drone-large.jpg",
-    "description": "Large drone for most critical missions. Can carry load.",
-    "price": 499.99
-  },
-  {
-    "id": "2",
-    "title": "Small drone",
-    "image": "drone-small.jpg",
-    "description": "Small drone. Can fly undetected.",
-    "price": 199.99
-  },
-  {
-    "id": "3",
-    "title": "Blue drone",
-    "image": "drone-blue.jpg",
-    "description": "Nice-looking drone in blue color. Has built-in HD camera",
-    "price": 249.99
-  },
-  {
-    "id": "4",
-    "title": "Red drone",
-    "image": "drone-red.jpg",
-    "description": "Nice-looking drone in red color",
-    "price": 229.99
-  },
-  {
-    "id": "5",
-    "title": "Black gyroboard",
-    "image": "gyroboard-black.jpg",
-    "description": "Black gyroboard to match your style",
-    "price": 729.99
-  },
-  {
-    "id": "6",
-    "title": "White gyroboard",
-    "image": "gyroboard-white.jpg",
-    "description": "White gyroboard with blue lights",
-    "price": 829.99
-  },
-  {
-    "id": "7",
-    "title": "Tesla Model X",
-    "image": "tesla-x.jpg",
-    "description": "Best crossover in the World",
-    "price": 99999.99
-  },
-  {
-    "id": "32",
-    "title": "Daewoo Lanos",
-    "image": "daewoo-lanos.jpg",
-    "description": "Best ukrainian car",
-    "price": 7000
-  },
+    {
+        "id": "1",
+        "title": "Large drone",
+        "image": "drone-large.jpg",
+        "description": "Large drone for most critical missions. Can carry load.",
+        "price": 499.99
+    },
+    {
+        "id": "2",
+        "title": "Small drone",
+        "image": "drone-small.jpg",
+        "description": "Small drone. Can fly undetected.",
+        "price": 199.99
+    },
+    {
+        "id": "3",
+        "title": "Blue drone",
+        "image": "drone-blue.jpg",
+        "description": "Nice-looking drone in blue color. Has built-in HD camera",
+        "price": 249.99
+    },
+    {
+        "id": "4",
+        "title": "Red drone",
+        "image": "drone-red.jpg",
+        "description": "Nice-looking drone in red color",
+        "price": 229.99
+    },
+    {
+        "id": "5",
+        "title": "Black gyroboard",
+        "image": "gyroboard-black.jpg",
+        "description": "Black gyroboard to match your style",
+        "price": 729.99
+    },
+    {
+        "id": "6",
+        "title": "White gyroboard",
+        "image": "gyroboard-white.jpg",
+        "description": "White gyroboard with blue lights",
+        "price": 829.99
+    },
+    {
+        "id": "7",
+        "title": "Tesla Model X",
+        "image": "tesla-x.jpg",
+        "description": "Best crossover in the World",
+        "price": 99999.99
+    },
+    {
+        "id": "26",
+        "title": "Tesla Roadster",
+        "image": "tesla-roadster.jpg",
+        "description": "The quickest car in the world, with record-setting acceleration, range and performance",
+        "price": 100000.00
+    },
+    {
+        "id": "17",
+        "title": "Audi 8",
+        "image": "audi-a8.jpg",
+        "description": "Four-door, full-size luxury sedan",
+        "price": 146740.99
+     },
 	{
         "id": "34",
         "title": "iPhone XR",
         "image": "iphone-xr.jpg",
         "description": "Brilliant. In every way.",
         "price": 749.99
+    },
+	{
+        "id": "44",
+        "title": "Huawei Mate 20X",
+        "image": "huawei-mate-20x.jpg",
+        "description": "Built to be a performance dynamo",
+        "price": 44.99
     }
 ]
+
