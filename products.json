@@ -54,5 +54,12 @@
         "image": "iphone-xr.jpg",
         "description": "Brilliant. In every way.",
         "price": 749.99
+    },
+    {
+        "id": "43",
+        "title": "Chevrolet Corvette",
+        "image": "chevrolet_corvette.jpg",
+        "description": "The Chevrolet Corvette is ranked #4 in Luxury Sports Cars by U.S..",
+        "price": 55495.00
     }
 ]
