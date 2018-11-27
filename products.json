@@ -66,8 +66,16 @@
         "id": "34",
         "title": "iPhone XR",
         "image": "iphone-xr.jpg",
-        "description": "Brilliant. In every way.",
+        "description": "Brilliant. In every way",
         "price": 749.99
+    },
+
+    {
+        "id": "50",
+        "title": "Xiaomi Mi 8",
+        "image": "xiaomi-mi-8.jpg",
+        "description": "Very very beautiful. In every way.",
+        "price": 599.99
     },
   {
         "id": "43",
@@ -82,6 +90,21 @@
         "image": "huawei-mate-20x.jpg",
         "description": "Built to be a performance dynamo",
         "price": 44.99
+    },
+    {
+        "id": "29",
+        "title": "Honda Pilot",
+        "image": "honda-pilot.jpg",
+        "description": "Very nice car",
+        "price": 40000.00
+    },
+    {
+        "id": "54",
+        "title": "BMW I8",
+        "image": "bmw-i8.jpg",
+        "description": "Perfect",
+        "price": 100000000
     }
+
 ]
 
