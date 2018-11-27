@@ -61,6 +61,13 @@
         "image": "iphone-xr.jpg",
         "description": "Brilliant. In every way.",
         "price": 749.99
+    },
+	{
+        "id": "44",
+        "title": "Huawei Mate 20X",
+        "image": "huawei-mate-20x.jpg",
+        "description": "Built to be a performance dynamo",
+        "price": 44.99
     }
 ]
 
