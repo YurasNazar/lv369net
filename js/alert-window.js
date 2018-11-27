@@ -12,3 +12,4 @@ function showAlert(message, success = true) {
         $('.alert').alert('close');
     }, 1000);
 }
+
