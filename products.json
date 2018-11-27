@@ -55,6 +55,13 @@
         "description": "The quickest car in the world, with record-setting acceleration, range and performance",
         "price": 100000.00
     },
+    {
+        "id": "17",
+        "title": "Audi 8",
+        "image": "audi-a8.jpg",
+        "description": "Four-door, full-size luxury sedan",
+        "price": 146740.99
+     },
 	{
         "id": "34",
         "title": "iPhone XR",
@@ -63,3 +70,4 @@
         "price": 749.99
     }
 ]
+
