@@ -61,7 +61,7 @@
         "image": "audi-a8.jpg",
         "description": "Four-door, full-size luxury sedan",
         "price": 146740.99
-     },
+    },
 	{
         "id": "34",
         "title": "iPhone XR",
@@ -69,7 +69,6 @@
         "description": "Brilliant. In every way",
         "price": 749.99
     },
-
     {
         "id": "50",
         "title": "Xiaomi Mi 8",
@@ -77,13 +76,13 @@
         "description": "Very very beautiful. In every way.",
         "price": 599.99
     },
-  {
+    {
         "id": "43",
         "title": "Chevrolet Corvette",
         "image": "chevrolet_corvette.jpg",
         "description": "The Chevrolet Corvette is ranked #4 in Luxury Sports Cars by U.S..",
         "price": 55495.00
-  },
+    },
 	{
         "id": "44",
         "title": "Huawei Mate 20X",
@@ -91,7 +90,7 @@
         "description": "Built to be a performance dynamo",
         "price": 44.99
     },
-	  {
+	{
         "id": "56",
         "title": "Xiaomi mi mix 3",
         "image": "xiaomi-mi-mix-3.jpg",
@@ -113,6 +112,4 @@
         "price": 100000000
 
     }
-
 ]
-
