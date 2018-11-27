@@ -54,6 +54,13 @@
         "image": "audi-a8.jpg",
         "description": "Four-door, full-size luxury sedan",
         "price": 146740.99
+     },
+	{
+        "id": "34",
+        "title": "iPhone XR",
+        "image": "iphone-xr.jpg",
+        "description": "Brilliant. In every way.",
+        "price": 749.99
     }
 ]
 
