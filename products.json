@@ -48,6 +48,20 @@
         "description": "Best crossover in the World",
         "price": 99999.99
     },
+    {
+        "id": "26",
+        "title": "Tesla Roadster",
+        "image": "tesla-roadster.jpg",
+        "description": "The quickest car in the world, with record-setting acceleration, range and performance",
+        "price": 100000.00
+    },
+    {
+        "id": "17",
+        "title": "Audi 8",
+        "image": "audi-a8.jpg",
+        "description": "Four-door, full-size luxury sedan",
+        "price": 146740.99
+     },
 	{
         "id": "34",
         "title": "iPhone XR",
@@ -55,11 +69,26 @@
         "description": "Brilliant. In every way",
         "price": 749.99
     },
+  {
+        "id": "43",
+        "title": "Chevrolet Corvette",
+        "image": "chevrolet_corvette.jpg",
+        "description": "The Chevrolet Corvette is ranked #4 in Luxury Sports Cars by U.S..",
+        "price": 55495.00
+  },
 	{
         "id": "44",
         "title": "Huawei Mate 20X",
         "image": "huawei-mate-20x.jpg",
         "description": "Built to be a performance dynamo",
         "price": 44.99
+    },
+    {
+        "id": "54",
+        "title": "BMW I8",
+        "image": "bmw-i8.jpg",
+        "description": "Perfect",
+        "price": 100000000
     }
 ]
+
