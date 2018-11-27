@@ -69,6 +69,14 @@
         "description": "Brilliant. In every way",
         "price": 749.99
     },
+
+    {
+        "id": "50",
+        "title": "Xiaomi Mi 8",
+        "image": "xiaomi-mi-8.jpg",
+        "description": "Very very beautiful. In every way.",
+        "price": 599.99
+    },
   {
         "id": "43",
         "title": "Chevrolet Corvette",
@@ -97,5 +105,6 @@
         "description": "Perfect",
         "price": 100000000
     }
+
 ]
 
